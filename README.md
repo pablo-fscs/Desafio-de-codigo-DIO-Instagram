@@ -9,9 +9,9 @@ Esse é o repositório da aula de Flexbox, na qual trabalhamos a interface de lo
 
 foram realizadas as seguintes alterações no código original:
 
- * Adicionado função de link aos textos "Altenar contas" e "Inscreva-se";
+ * Adicionado função de link aos textos "Alternar contas" e "Inscreva-se";
  * Alterado distanciamento entre conteineres;
- * Colocado borda no grup em modo mobile;
+ * Colocado borda no group em modo mobile;
  * Alterada classe de fontes.
 
 ##Obrigado pela visita!!! Volte sempre.
